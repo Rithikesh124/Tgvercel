@@ -1,7 +1,7 @@
 const { Telegraf } = require('telegraf');
 
 // WARNING: Do NOT do this in a real project. Your token is exposed!
-const BOT_TOKEN = '8325178588:AAHW4DVrMREl45ClNerzsw5dI6WySGsP9X8'; // <--- PASTE YOUR TOKEN HERE
+const BOT_TOKEN = '8475840633:AAEjkYlX3wGKdUMr3ZkIMkarmIcGJupMxM8'; // <--- PASTE YOUR TOKEN HERE
 const bot = new Telegraf(BOT_TOKEN);
 
 // This is the main function that Vercel will run
